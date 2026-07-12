@@ -1,0 +1,2 @@
+ALTER TABLE OurLibrary
+ALTER COLUMN Bookname VARCHAR(100);
