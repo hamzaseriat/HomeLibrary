@@ -1,1 +1,1 @@
-select * from OurLibrary
+insert into OurLibrary values('Devlet Yıkan Tefrikalar','Nuh Albayrak','Tarih',616,'KTB Yayınevi)
